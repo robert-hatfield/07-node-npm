@@ -34,14 +34,13 @@ When you are finished with lab, follow these steps to submit your work. Create o
 
 ## Feature Tasks  
 <!-- a list or description of the feature tasks you want the students to implement -->
-1. Initiate the project and create a `package.json` file.
-1. Install ExpressJS, and ensure that it's been saved as a dependency in the `package.json` file.
-1. Complete each of the TODOs in the `server.js` file.
-1. Run the server using `node server` and ensure that your app functions correctly.
-
+- [x] Initiate the project and create a `package.json` file.
+- [x] Install ExpressJS, and ensure that it's been saved as a dependency in the `package.json` file.
+- [x] Complete each of the TODOs in the `server.js` file.
+- [x] Run the server using `node server` and ensure that your app functions correctly.
 ### Stretch Goals
-1. Create a route and callback that will serve up the `new.html` page via a separate URI.
-2. Create a ***404*** route to handle any requests other than `index.html` or `new.html`, and deliver a 404 status message to those invalid requests.
+- [x] Create a route and callback that will serve up the `new.html` page via a separate URI.
+- [x] Create a ***404*** route to handle any requests other than `index.html` or `new.html`, and deliver a 404 status message to those invalid requests.
 
 ---
 
