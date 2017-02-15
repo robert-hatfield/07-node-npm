@@ -1,0 +1,26 @@
+{
+  "name": "lab-07",
+  "version": "1.0.0",
+  "description": "Code 301 Express lab",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robert-hatfield/07-node-npm.git"
+  },
+  "keywords": [
+    "lab"
+  ],
+  "author": "Kaylee & Robert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robert-hatfield/07-node-npm/issues"
+  },
+  "homepage": "https://github.com/robert-hatfield/07-node-npm#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
